@@ -11,9 +11,9 @@ body{
     font-family: 'Montserrat', sans-serif;
     color:var(--main-color);
     background-color: var(--second-background-color);
-    scroll-behavior: smooth;
 }
 *{
+  scroll-behavior: smooth;
  text-decoration: none; 
  list-style: none;
  box-sizing: border-box;
